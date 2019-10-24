@@ -3,6 +3,6 @@ Pls create a new topic on the category if it doesn't exists.
 # Inteligent Transport Systems
 
 * [VEHITS](http://www.vehits.org/) 
-    * Item 3a
-    * Item 3b
-    * Item 3c
+    * Regular Paper Submission: December 13, 2019
+    * Regular Paper Authors Notification: February 12, 2020
+    * h index 6 
