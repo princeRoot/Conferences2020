@@ -10,3 +10,9 @@ Pls create a new topic on the category if it doesn't exists.
     * Regular Paper Submission: December 13, 2019
     * Regular Paper Authors Notification: February 12, 2020
     * h index 6 
+    
+* [intelligent-transportation-and-traffic-system-conference](https://waset.org/intelligent-transportation-and-traffic-system-conference-in-march-2020-in-miami) 
+    * Abstracts/Full-Text Paper Submission Deadline October 31, 2019
+    * Notification of Acceptance/Rejection November 15, 2019
+    * Final Paper (Camera Ready) Submission & Early Bird Registration Deadline February 11, 2020
+    * Conference Dates March 12-13, 2020
